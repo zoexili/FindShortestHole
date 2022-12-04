@@ -1,3 +1,8 @@
+########################################
+Li Xi
+lxi@bu.edu
+########################################
+
 import queue
 import sys
 import numpy as np
